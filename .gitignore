@@ -31,3 +31,4 @@ package-lock.json
 .editorconfig
 test/resources/50-file-test-file.txt
 test/unit/@node-red/runtime/lib/nodes/.testUserHome
+result-node-red*
